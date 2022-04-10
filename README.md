@@ -27,7 +27,7 @@ Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ig
 
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=codetheweb">
 
-I also like listening to music. A few of my favorite artists:
+A few of my favorite artists:
 - [Odesza](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw?si=P33xAML0REKwjt5XIPdhuw)
 - [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer?si=e4wDRpUVRMWlJ-5rlIjsEQ)
 - [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU?si=tWREm_wZT0S4X4oJQMdbmg)
