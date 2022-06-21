@@ -17,7 +17,6 @@ My [portfolio](https://maxisom.me/) has more details on most of my side projects
 Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
 - 🏨 [The Wandering Inn](https://wanderinginn.com/)
 - 🦹 [Only Villains Do That](https://www.royalroad.com/fiction/40182/only-villains-do-that) (as chapters are published)
-- 🐛 [Worm](https://parahumans.wordpress.com/) (re-read)
 
 (If you have a book rec feel free to [open an issue and tell me about it](https://github.com/codetheweb/codetheweb/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc), always looking for new material. 😀)
 
