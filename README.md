@@ -12,6 +12,8 @@ I primarily work with TypeScript & React, and occasionally use other languages l
 
 My [portfolio](https://maxisom.me/) has more details on most of my side projects.
 
+✍️ I recently published my first blog post: [Rendering 5 million pixel changes per second with Rust & wgpu](https://maxisom.me/posts/rendering-5-million-pixel-updates-per-second).
+
 ------------------
 
 Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
