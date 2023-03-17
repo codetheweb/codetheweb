@@ -12,7 +12,7 @@ I primarily work with TypeScript & React, and occasionally use other languages l
 
 My [portfolio](https://maxisom.me/) has more details on most of my side projects.
 
-✍️ I recently published my first blog post: [Rendering 5 million pixel changes per second with Rust & wgpu](https://maxisom.me/posts/rendering-5-million-pixel-updates-per-second).
+✍️ I recently published my first blog post: [Applying 5 million pixel changes per second with Rust & wgpu](https://maxisom.me/posts/applying-5-million-pixel-updates-per-second).
 
 ------------------
 
