@@ -17,7 +17,7 @@ My [portfolio](https://maxisom.me/) has more details on most of my side projects
 ------------------
 
 
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=codetheweb">
+<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=codetheweb">
 
 Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
 - 🏨 [The Wandering Inn](https://wanderinginn.com/)
