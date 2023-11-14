@@ -21,7 +21,6 @@ My [portfolio](https://maxisom.me/) has more details on most of my side projects
 
 Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
 - 🏨 [The Wandering Inn](https://wanderinginn.com/)
-- 📅 [Four Thousand Weeks](https://www.theguardian.com/books/2021/sep/01/four-thousand-weeks-by-oliver-burkeman-review-a-brief-treatise-on-time)
 
 (If you have a book rec feel free to [open an issue and tell me about it](https://github.com/codetheweb/codetheweb/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc), always looking for new material. 😀)
 
