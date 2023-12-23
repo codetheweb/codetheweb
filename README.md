@@ -22,7 +22,7 @@ My [portfolio](https://maxisom.me/) has more details on most of my side projects
 Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
 
 - 🏨 [The Wandering Inn](https://wanderinginn.com/)
-- 🇷🇺 A Gentleman in Moscow
+- 🪐 [Project Hail Mary](https://bookshop.org/p/books/project-hail-mary-andy-weir/18644162?ean=9780593135228)
 
 Recently finished books that you should check out:
 
