@@ -1,7 +1,5 @@
 # Hi, I'm Max.
 
-![Visitor count](https://komarev.com/ghpvc/?username=codetheweb)
-
 I primarily work with TypeScript & React, and occasionally use other languages like Swift & Rust.
 
 🧑‍💻 I'm currently building an API to the physical world at [Seam](https://www.getseam.com/).
@@ -10,7 +8,7 @@ I primarily work with TypeScript & React, and occasionally use other languages l
 - 🎶 need a music bot for your Discord server? Try [Muse](https://github.com/codetheweb/muse/tree/129d121364c7e976c7bf5e2da3976da230058d77) or [Aoede](https://github.com/codetheweb/aoede).
 - 💡 want to control those crappy IoT devices you bought on Amazon with a custom script? You probably need [TuyAPI](https://github.com/codetheweb/tuyapi).
 
-My [portfolio](https://maxisom.me/) has more details on most of my side projects.
+My [portfolio](https://maxisom.me/) has more details on most of my projects.
 
 Blog posts:
 
