@@ -22,7 +22,6 @@ Blog posts:
 Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
 
 - 🏨 [The Wandering Inn](https://wanderinginn.com/)
-- 🌀 [The Circle](https://bookshop.org/p/books/the-circle-dave-eggers/586393?ean=9780345807298) (so far, a bit heavy-handed for my taste)
 
 Recently finished books that you should check out:
 
