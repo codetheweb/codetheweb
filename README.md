@@ -22,7 +22,7 @@ Blog posts:
 Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
 
 - 🏨 [The Wandering Inn](https://wanderinginn.com/)
-- 🫖 The Design of Everyday Things
+- 🌕 The Dispossessed
 
 Recently finished books that you should check out:
 
