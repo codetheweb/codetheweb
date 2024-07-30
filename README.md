@@ -22,10 +22,11 @@ Blog posts:
 Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
 
 - 🏨 [The Wandering Inn](https://wanderinginn.com/)
-- 🌕 The Dispossessed
+- ⏰ [Children of Time](https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/113411)
 
 Recently finished books that you should check out:
 
+- 🌕 [The Dispossessed](https://bookshop.org/p/books/the-dispossessed-ursula-k-le-guin/7899183): a society of anarchists vs. a foreign State. But is a State eventually inevitable regardless?
 - ⛪︎ [Unsong](https://unsongbook.com/): theodicy meets kabbalism meets *Hitchhiker's Guide to the Galaxy*.
 - 🪐 [Project Hail Mary](https://bookshop.org/p/books/project-hail-mary-andy-weir/18644162?ean=9780593135228): the sun is dying. It's up to a middle-school science teacher to save the world. Similar to *The Martian* in that it's grounded in somewhat plausible science.
 - 📅 [Four Thousand Weeks](https://www.theguardian.com/books/2021/sep/01/four-thousand-weeks-by-oliver-burkeman-review-a-brief-treatise-on-time): an antithesis to traditional time management. Embrace your limitations—life is short.
