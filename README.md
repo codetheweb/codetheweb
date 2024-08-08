@@ -1,8 +1,8 @@
 # Hi, I'm Max.
 
-I primarily work with TypeScript & React, and occasionally use other languages like Swift & Rust.
-
 🧑‍💻 I'm currently building at [Chroma](https://github.com/chroma-core/).
+
+Some of my open source work that may be helpful:
 
 - 💥 want a modern, open-source, and free xkcd app? Check out [XKCDY](https://xkcdy.com/).
 - 🎶 need a music bot for your Discord server? Try [Muse](https://github.com/codetheweb/muse/tree/129d121364c7e976c7bf5e2da3976da230058d77) or [Aoede](https://github.com/codetheweb/aoede).
