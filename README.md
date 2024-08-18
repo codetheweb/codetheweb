@@ -5,7 +5,7 @@
 Some of my open source work that may be helpful:
 
 - 💥 want a modern, open-source, and free xkcd app? Check out [XKCDY](https://xkcdy.com/).
-- 🎶 need a music bot for your Discord server? Try [Muse](https://github.com/codetheweb/muse/tree/129d121364c7e976c7bf5e2da3976da230058d77) or [Aoede](https://github.com/codetheweb/aoede).
+- 🎶 need a music bot for your Discord server? Try [Muse](https://github.com/museofficial/muse) or [Aoede](https://github.com/codetheweb/aoede).
 - 💡 want to control those crappy IoT devices you bought on Amazon with a custom script? You probably need [TuyAPI](https://github.com/codetheweb/tuyapi).
 
 My [portfolio](https://maxisom.me/) has more details on most of my projects.
@@ -19,10 +19,11 @@ Blog posts:
 
 <img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=codetheweb">
 
-Outside of coding, I do a lot of reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
+Outside of coding, I enjoy reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
 
 - 🏨 [The Wandering Inn](https://wanderinginn.com/)
-- ⏰ [Children of Time](https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/113411)
+- [How to Live Safely in a Science Fictional Universe](https://bookshop.org/p/books/how-to-live-safely-in-a-science-fictional-universe-charles-yu/8790166)
+
 
 Recently finished books that you should check out:
 
