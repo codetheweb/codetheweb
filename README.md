@@ -22,7 +22,6 @@ Blog posts:
 Outside of coding, I enjoy reading. One of my favorite series is [Terra Ignota](https://www.goodreads.com/series/166200-terra-ignota). I also enjoy Terry Pratchett and Neal Stephenson. Currently reading:
 
 - 🏨 [The Wandering Inn](https://wanderinginn.com/)
-- [How to Live Safely in a Science Fictional Universe](https://bookshop.org/p/books/how-to-live-safely-in-a-science-fictional-universe-charles-yu/8790166)
 
 
 Recently finished books that you should check out:
