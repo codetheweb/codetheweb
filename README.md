@@ -3,7 +3,7 @@
 
 # Hi, I'm Max.
 
-🧑‍💻 I'm currently building at [Chroma](https://github.com/chroma-core/).
+🧑‍💻 I'm currently building at [Archil](https://archil.com/).
 
 Some of my open source work that may be helpful:
 
