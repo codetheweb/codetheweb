@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Someone is attempting to impersonate me. My verified profiles and public key can be found [here](https://keyoxide.org/DB42D3EFBEC9504C474BCBB31CD468DBEE04D151). If you are using a communication channel outside of the ones verified with my public key, **always** request a video call and/or that I sign something using my key. I will be happy to oblige.
+
 # Hi, I'm Max.
 
 🧑‍💻 I'm currently building at [Chroma](https://github.com/chroma-core/).
